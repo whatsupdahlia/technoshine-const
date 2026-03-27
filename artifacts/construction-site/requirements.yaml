@@ -1,0 +1,17 @@
+packages:
+  "framer-motion": "For page transitions and scroll-triggered animations to give a premium feel"
+  "react-hook-form": "For form state management"
+  "@hookform/resolvers": "For zod validation integration"
+  "zod": "For contact form validation schema"
+
+images:
+  - path: "artifacts/construction-site/public/images/logo.png"
+    description: "Minimalist bold industrial logo for a construction company named BuildCo. Safety orange and dark gray. Transparent background."
+    aspect_ratio: "1:1"
+  - path: "artifacts/construction-site/public/images/blueprint-bg.png"
+    description: "Dark architectural blueprint pattern with subtle geometric lines and faint safety orange accents. Perfect for a subtle background texture."
+    aspect_ratio: "16:9"
+
+notes:
+  - "Using the provided /api/contact endpoint via the generated useSubmitContact hook"
+  - "Using Framer Motion for scroll reveals and interactive polish"

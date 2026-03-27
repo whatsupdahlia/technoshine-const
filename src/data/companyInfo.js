@@ -4,62 +4,63 @@ const companyInfo = {
   subtitle:
     "Construction and finishing solutions for residential, commercial, and institutional projects.",
   story:
-    "Founded in 1993, Technoshine began as a specialist in stone restoration and surface finishing. Over the years, its expertise expanded into construction services, renovation, and fit-out works with a focus on durability, precision, and premium finishing.",
+    "Technoshine is a trusted construction and finishing company known for quality workmanship, reliability, and premium project delivery. From restoration and renovation to fit-out and modular construction, the company continues to serve clients with strong technical experience and a commitment to detail.",
   vision:
-    "To be a reliable and trusted construction company delivering quality, safe, and sustainable projects nationwide.",
+    "To be a reliable and trusted construction company delivering quality, safe, and sustainable projects.",
   mission: [
-    "Provide cost-effective, high-quality construction, renovation, and finishing services through skilled workmanship, modern techniques, and professional project management.",
-    "Exceed client expectations through timely delivery and transparency in every project stage.",
-    "Promote innovation, continuous improvement, and environmental responsibility.",
+    "Provide high-quality construction, renovation, and finishing services through skilled workmanship and professional project execution.",
+    "Exceed client expectations through timely delivery, transparency, and dependable service.",
+    "Promote innovation, continuous improvement, and customer satisfaction in every project.",
   ],
   goal:
-    "To expand construction capabilities in civil works, architectural finishes, and specialized stone applications.",
+    "To expand construction capabilities in civil works, architectural finishes, and specialized project solutions.",
   coreValues: [
     {
       title: "Commitment",
       description:
-        "We believe excellent customer service is the foundation of long-term trust and growth.",
+        "We value dedication to quality service and long-term customer trust.",
     },
     {
       title: "Passion",
       description:
-        "We deliver exceptional service and workmanship with high value at a fair cost.",
+        "We bring energy, care, and attention to every project we handle.",
     },
     {
       title: "Integrity",
       description:
-        "We continuously develop our skills and methodology to become experts in our field.",
+        "We work honestly, responsibly, and professionally in every engagement.",
     },
     {
       title: "Professionalism",
       description:
-        "We value collaboration, understanding, and professional delivery in every project.",
+        "We maintain discipline, reliability, and respect in project delivery.",
     },
   ],
   qualityPolicyTitle: "Committed to Safety, Quality, and On-Time Delivery",
   qualityPolicy:
-    "Technoshine Construction Company is committed to providing quality construction services that meet client needs, safety standards, and regulatory compliance through careful planning, diligent execution, and continuous improvement.",
+    "Technoshine Construction is committed to providing construction services that meet client needs, quality standards, and project requirements through planning, execution, and continuous improvement.",
   qualityPoints: [
-    "We deliver quality service to maintain excellent customer relations.",
-    "Customer satisfaction remains inherent to our business.",
-    "Customer requirements are fully understood and met.",
-    "All work is carried out consistently to a defined standard.",
-    "We have the skills and resources to fulfill customer requirements.",
-    "Our staff are fully trained and involved in quality improvement.",
-    "We continuously improve systems and procedures.",
+    "Deliver quality service to maintain excellent customer relations.",
+    "Keep customer satisfaction at the center of the business.",
+    "Understand and fulfill project requirements.",
+    "Carry out work consistently to defined standards.",
+    "Use the right skills and resources for project delivery.",
+    "Train staff and support continuous improvement.",
+    "Improve systems and procedures continuously.",
   ],
   process: [
     "Project Consultation & Site Inspection",
     "Design Review & Cost Estimate",
     "Project Planning & Scheduling",
     "Construction & Quality Control",
-    "Project Turnover & After-Sales Support",
+    "Project Turnover & Support",
   ],
   contact: {
     phone: "+63 917 824 1220",
     email: "erwin.torrefiel@technoshineph.com",
     secondaryEmail: "stonecare@technoshineph.com",
-    address: "Unit 110 Union Square Condominium, 15th Ave, Cubao, Quezon City.",
+    address:
+      "Unit 110 Union Square Condominium, 15th Ave, Cubao, Quezon City",
   },
 };
 

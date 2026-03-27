@@ -12,22 +12,22 @@ const services = [
   {
     title: "Stone Restoration",
     description:
-      "Expert restoration, polishing, grinding, and enhancement for natural stone surfaces.",
+      "Restoration, polishing, grinding, and enhancement for stone surfaces.",
   },
   {
     title: "Modular Construction",
     description:
-      "Prefabrication and modular construction solutions for fast and efficient project delivery.",
+      "Prefabrication and modular construction solutions for faster project delivery.",
   },
   {
     title: "Architectural Finishes",
     description:
-      "Premium finishes that combine function, craftsmanship, and visual quality.",
+      "Premium finishes that combine function, detail, and visual quality.",
   },
   {
     title: "Supply & Installation",
     description:
-      "Supply and installation of selected construction and architectural components.",
+      "Supply and installation of selected architectural and construction components.",
   },
 ];
 
